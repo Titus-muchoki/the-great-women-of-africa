@@ -24,7 +24,7 @@
     }
     
     .hero{
-        background-image: url(../images/model.jpg);
+        background-image: url(../images/doggy.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 600px;
@@ -40,7 +40,7 @@
         align-items: center;
     }
     h1{
-        color:white;
+        color: rgb(128, 0, 111);
         
         text-shadow: 8px 10px 10px #000000;
         border-top:none;
@@ -54,7 +54,7 @@
     .about{
         
         height: 600px;
-        background-image: url("../images/kajela.jpg");
+        background-image: url("../images/potrait.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         overflow: hidden;
