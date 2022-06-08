@@ -1,4 +1,4 @@
-/*CSS variables section
+/*CSS variables section*/
 :root {
     
     color: #ff000F;
@@ -8,7 +8,7 @@
     
     /*General CSS and CSS reset*/
     
-   /* html {
+    html {
       scroll-behavior: smooth;
     }
     
@@ -18,7 +18,7 @@
     }
     section{
         margin-top: 46px;
-    }*/
+    }
     body{
         background-color: aqua;
     }
@@ -53,8 +53,8 @@
     }
     .about{
         
-        height: 700px;
-        background-image: url("https://source.unsplash.com/xwMlVSqP20U");
+        height: 600px;
+        background-image: url("../images/kajela.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         overflow: hidden;
