@@ -1,0 +1,97 @@
+function myFunction() { // Its just a method
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  console.log("helo");
+  // var x = document.getElementById("navDemo");
+  // if (x.className.indexOf("w3-show") == -1) {
+  //     x.className += " w3-show";
+  // } else {
+  //     x.className = x.className.replace(" w3-show", "");
+  // }
+}
+
+myFunction();
+
+console.log('umbwa')
