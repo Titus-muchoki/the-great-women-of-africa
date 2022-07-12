@@ -470,3 +470,24 @@
          width: 100%;
       }
     } 
+    #head:hover{
+        background-color: #00ff62;
+    }
+    #contact:hover{
+        background-color: #0059ff;
+    }
+    #join:hover{
+        background-color: #ff2600; 
+    }
+    #testimony:hover{
+        background-color: #adff2f; 
+    }
+    #service:hover{
+        background-color: #00d9ff;   
+    }
+    #name :hover{
+        background-color: #fffb00;
+    }
+    #email:hover{
+        background-color: #fffb00;
+    }
